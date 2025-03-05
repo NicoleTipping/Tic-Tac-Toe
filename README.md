@@ -40,5 +40,5 @@ Click the reset button to start a new game.
 
 📌 Future Improvements
 
-Improve animations and styling
-Add score tracking
+- Improve animations and styling
+- Add score tracking
