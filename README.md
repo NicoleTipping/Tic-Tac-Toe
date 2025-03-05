@@ -19,6 +19,7 @@ CSS
     Clone repository:
 
 git clone https://github.com/yourusername/tic-tac-toe-react.git
+
 cd tic-tac-toe-react
 
     Install dependencies:
